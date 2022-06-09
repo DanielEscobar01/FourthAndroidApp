@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Daniel Escobar</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hello my name is Daniel Escobar and I\'m a Young Traveler
+        \n 🇨🇴🇺🇸🇪🇨🇵🇪🇨🇱🇦🇷🇲🇽🇩🇴🇧🇷🇵🇾🇳🇱🇪🇸🇫🇷🇺🇦🇱🇻🇮🇸🇩🇪🇸🇮🇭🇷🇹🇷🇵🇦.
+        \n\n 💻 Systems Engineering Student at University of Antioquia 🖥
+        \n Father and Brother 3️⃣0️⃣1️⃣1️⃣
+    </string>
+</resources>
